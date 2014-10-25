@@ -45,8 +45,8 @@ Weird strat.. But he seems to do it consistently O.o
 - 26 Starport
 - 27 Depot
 - 27 Command Center
-- 33 6:14 Cloak
-- 36 6:14 Banshee
+- 33 (@6:14) Cloak
+- 36 (@6:14) Banshee
 
 ## lfighterCN (2v2 Z)
 
