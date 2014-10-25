@@ -34,7 +34,7 @@ Weird strat.. But he seems to do it consistently O.o
 
 ## SyZyGy (2v2 T)
 
-[IMBABuilds](http://imbabuilds.com/hots-terran/hots-tvt/tvt-taejas-hots-banshee-build/)
+[IMBABuilds Link](http://imbabuilds.com/hots-terran/hots-tvt/tvt-taejas-hots-banshee-build/)
 
 - 10 Depot
 - 12 Rax
@@ -49,6 +49,8 @@ Weird strat.. But he seems to do it consistently O.o
 - 36 (@6:14) Banshee
 
 ## lfighterCN (2v2 Z)
+
+[IMBABuilds Link](http://imbabuilds.com/hots-zerg/hots-zvt/zvt-2-base-speedling-timing/)
 
 - 15 Hatch
 - 16 Gas
