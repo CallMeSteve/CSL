@@ -259,9 +259,9 @@
 
 ---
 
-####Havoc vs Terran (Akilon Wastes) 10 mins
+##Havoc vs Terran (Akilon Wastes) 10 mins
 
-##Havoc lost
+####Havoc lost
 [IMBABuilds Link Innovation’s Marine/Hellion Expand][7]
 
 - 12 Rax
