@@ -7,12 +7,23 @@
 
 - **[Player.CC (Race) (League) (P, T, Z Win %)]**
 
-- TBoNe.688 (R) (D-M) (As P: 83,40,50. As T: 50,67,55. As Z: 72,48,57) *based on recent match history and he played versus Florida*
-- CNProtoss.152 (P) (GM) (53,60,60) *GWU's best player*
+- TBoNe.688 (R) (D-M) (As P: 83,40,50. As T: 50,67,55. As Z: 72,48,57) 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *based on recent match history and he played versus Florida*
+
+- CNProtoss.152 (P) (GM) (53,60,60)
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*GWU's best player*
+
 - 2v2
-	- Sugar.953 (R) (D) (53) (DoctorFoxer) *based on recent 2v2 match history*
-	- Talrane.507 (T) (G) (51) *based on recent 2v2 match history*
-- Gloob.217 (T) (D) (49,53,48) *based on recent match history*
+	- Sugar.953 (R) (D) (53) (DoctorFoxer) 
+	- Talrane.507 (T) (G) (51) 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*based on recent 2v2 match history*
+	
+- Gloob.217 (T) (D) (49,53,48) 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*based on recent match history*
 
 **Week 13 Map Pool**
 
