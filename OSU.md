@@ -14,3 +14,5 @@ Ohio State University SC2 Squad
 [Blight](http://us.battle.net/sc2/en/profile/3767323/1/Blight/): Rank 11 Diamond Protoss
 
 [MaFFGeeK](http://us.battle.net/sc2/en/profile/456806/1/MaFFGeeK/): Rank 68 Diamond Terran
+
+**Note**: Two of OSU's players, kipi and Schnitzel, do not have their correct tags on BNet. Hopefully we get a BYE because of that ^_^
