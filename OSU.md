@@ -15,4 +15,4 @@ Ohio State University SC2 Squad
 
 [MaFFGeeK](http://us.battle.net/sc2/en/profile/456806/1/MaFFGeeK/): Rank 68 Diamond Terran
 
-**Note**: Two of OSU's players, kipi and Schnitzel, do not have their correct tags on BNet. Hopefully we get a BYE because of that ^_^
+**Note**: Two of OSU's players, kipi and Schnitzel, do not have their correct tags on the CSL site. Hopefully we get a BYE because of that ^_^
